@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE student_information SYSTEM "stud.dtd">
+<?xml-stylesheet type="text/css" href="stud.css"?>
+
+
+<information>
+
+<vtu>
+<usn> 4VV18IS096 </usn>
+<name> Sharath </name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2019 </yoj>
+<email> sharathsagar@gmail.com </email>
+</vtu>
+
+
+<vtu>
+<usn> 4VV18IS093 </usn>
+<name> Sanjan</name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2018 </yoj>
+<email> sanjansshetty2000@gmail.com </email>
+</vtu>
+
+
+<vtu>
+<usn> 4VV18IS090 </usn>
+<name> Saicharan </name>
+<college> VVCE </college>
+<branch> ISE </branch>
+<yoj> 2018 </yoj>
+<email> saicharan@gmail.com </email>
+</vtu>
+
+
+</information>
